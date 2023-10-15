@@ -24,5 +24,12 @@
     "subtitles.entity.endermite.death": "Gendermite dies",
     "subtitles.entity.endermite.hurt": "Gendermite hurts",
 
-    "entity.minecraft.eye_of_ender": "Eye of Gender"
+    "entity.minecraft.eye_of_ender": "Eye of Gender",
+
+    "item.minecraft.ender_pearl": "Gender Pearl",
+    "subtitles.entity.ender_pearl.throw": "Gender Pearl flies",
+    "entity.minecraft.ender_pearl": "Thrown Gender Pearl",
+    "gamerule.enderPearlsVanishOnDeath": "Thrown gender pearls vanish on death",
+    "gamerule.enderPearlsVanishOnDeath.description": "Whether gender pearls thrown by a player vanish when that player dies."
+
 }
