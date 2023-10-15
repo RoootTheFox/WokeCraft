@@ -30,6 +30,8 @@
     "subtitles.entity.ender_pearl.throw": "Gender Pearl flies",
     "entity.minecraft.ender_pearl": "Thrown Gender Pearl",
     "gamerule.enderPearlsVanishOnDeath": "Thrown gender pearls vanish on death",
-    "gamerule.enderPearlsVanishOnDeath.description": "Whether gender pearls thrown by a player vanish when that player dies."
+    "gamerule.enderPearlsVanishOnDeath.description": "Whether gender pearls thrown by a player vanish when that player dies.",
+
+    "entity.minecraft.dragon_fireball": "Pronoun Balls"
 
 }
