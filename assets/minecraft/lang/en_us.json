@@ -1,0 +1,28 @@
+{
+    "item.minecraft.dragon_breath": "Hormones",
+    "advancements.end.dragon_breath.description": "Collect Hormones in a Glass Bottle",
+    "death.attack.dragonBreath": "%1$s took to many hormones",
+    "death.attack.dragonBreath.player": "%1$s was forced to take too many hormones by %2$s",
+
+    "entity.minecraft.ender_dragon": "Gender Dragon",
+    "advancements.end.respawn_dragon.description": "Respawn the Gender Dragon",
+    "advancements.adventure.spyglass_at_dragon.description": "Look at the Gender Dragon through a Spyglass",
+    "item.minecraft.ender_dragon_spawn_egg": "Gender Dragon Spawn Egg",
+
+    "entity.minecraft.enderman": "Genderman",
+    "item.minecraft.enderman_spawn_egg": "Genderman Spawn Egg",
+    "subtitles.entity.enderman.ambient": "Genderman vwoops",
+    "subtitles.entity.enderman.death": "Genderman dies",
+    "subtitles.entity.enderman.hurt": "Genderman hurts",
+    "subtitles.entity.enderman.scream": "Genderman screams",
+    "subtitles.entity.enderman.stare": "Genderman cries out",
+    "subtitles.entity.enderman.teleport": "Genderman teleports",
+
+    "entity.minecraft.endermite": "Gendermite",
+    "item.minecraft.endermite_spawn_egg": "Gendermite Spawn Egg",
+    "subtitles.entity.endermite.ambient": "Gendermite scuttles",
+    "subtitles.entity.endermite.death": "Gendermite dies",
+    "subtitles.entity.endermite.hurt": "Gendermite hurts",
+
+    "entity.minecraft.eye_of_ender": "Eye of Gender"
+}
